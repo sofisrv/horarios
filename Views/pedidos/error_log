@@ -1,0 +1,6 @@
+[24-Jun-2024 09:44:24 Europe/Madrid] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, bool given in /home/yvhxuunt/public_html/Views/pedidos/registroPedido.php on line 261
+[24-Jun-2024 09:44:24 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: DateTime::__construct() expects parameter 1 to be string, object given in /home/yvhxuunt/public_html/Views/pedidos/registroPedido.php:268
+Stack trace:
+#0 /home/yvhxuunt/public_html/Views/pedidos/registroPedido.php(268): DateTime->__construct(Object(DateTime))
+#1 {main}
+  thrown in /home/yvhxuunt/public_html/Views/pedidos/registroPedido.php on line 268

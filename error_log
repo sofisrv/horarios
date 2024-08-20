@@ -1,0 +1,91 @@
+[20-Jun-2024 07:38:27 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function verificarPermisos() on null in /home/yvhxuunt/public_html/Controllers/Maquinaria.php:10
+Stack trace:
+#0 /home/yvhxuunt/public_html/index.php(26): maquinaria->__construct()
+#1 {main}
+  thrown in /home/yvhxuunt/public_html/Controllers/Maquinaria.php on line 10
+[20-Jun-2024 07:38:34 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function verificarPermisos() on null in /home/yvhxuunt/public_html/Controllers/Maquinaria.php:10
+Stack trace:
+#0 /home/yvhxuunt/public_html/index.php(26): maquinaria->__construct()
+#1 {main}
+  thrown in /home/yvhxuunt/public_html/Controllers/Maquinaria.php on line 10
+[20-Jun-2024 07:38:36 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function verificarPermisos() on null in /home/yvhxuunt/public_html/Controllers/Maquinaria.php:10
+Stack trace:
+#0 /home/yvhxuunt/public_html/index.php(26): maquinaria->__construct()
+#1 {main}
+  thrown in /home/yvhxuunt/public_html/Controllers/Maquinaria.php on line 10
+[20-Jun-2024 07:38:49 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function verificarPermisos() on null in /home/yvhxuunt/public_html/Controllers/Maquinaria.php:10
+Stack trace:
+#0 /home/yvhxuunt/public_html/index.php(26): maquinaria->__construct()
+#1 {main}
+  thrown in /home/yvhxuunt/public_html/Controllers/Maquinaria.php on line 10
+[20-Jun-2024 07:41:06 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function verificarPermisos() on null in /home/yvhxuunt/public_html/Controllers/Maquinaria.php:10
+Stack trace:
+#0 /home/yvhxuunt/public_html/index.php(26): maquinaria->__construct()
+#1 {main}
+  thrown in /home/yvhxuunt/public_html/Controllers/Maquinaria.php on line 10
+[20-Jun-2024 07:42:59 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function verificarPermisos() on null in /home/yvhxuunt/public_html/Controllers/Maquinaria.php:10
+Stack trace:
+#0 /home/yvhxuunt/public_html/index.php(26): maquinaria->__construct()
+#1 {main}
+  thrown in /home/yvhxuunt/public_html/Controllers/Maquinaria.php on line 10
+[20-Jun-2024 07:43:38 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function verificarPermisos() on null in /home/yvhxuunt/public_html/Controllers/Maquinaria.php:10
+Stack trace:
+#0 /home/yvhxuunt/public_html/index.php(26): maquinaria->__construct()
+#1 {main}
+  thrown in /home/yvhxuunt/public_html/Controllers/Maquinaria.php on line 10
+[20-Jun-2024 07:43:40 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function verificarPermisos() on null in /home/yvhxuunt/public_html/Controllers/Maquinaria.php:10
+Stack trace:
+#0 /home/yvhxuunt/public_html/index.php(26): maquinaria->__construct()
+#1 {main}
+  thrown in /home/yvhxuunt/public_html/Controllers/Maquinaria.php on line 10
+[20-Jun-2024 07:43:41 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function verificarPermisos() on null in /home/yvhxuunt/public_html/Controllers/Maquinaria.php:10
+Stack trace:
+#0 /home/yvhxuunt/public_html/index.php(26): maquinaria->__construct()
+#1 {main}
+  thrown in /home/yvhxuunt/public_html/Controllers/Maquinaria.php on line 10
+[20-Jun-2024 07:44:19 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function verificarPermisos() on null in /home/yvhxuunt/public_html/Controllers/Maquinaria.php:10
+Stack trace:
+#0 /home/yvhxuunt/public_html/index.php(26): maquinaria->__construct()
+#1 {main}
+  thrown in /home/yvhxuunt/public_html/Controllers/Maquinaria.php on line 10
+[20-Jun-2024 07:52:05 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function verificarPermisos() on null in /home/yvhxuunt/public_html/Controllers/Maquinaria.php:10
+Stack trace:
+#0 /home/yvhxuunt/public_html/index.php(26): maquinaria->__construct()
+#1 {main}
+  thrown in /home/yvhxuunt/public_html/Controllers/Maquinaria.php on line 10
+[20-Jun-2024 07:52:20 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function verificarPermisos() on null in /home/yvhxuunt/public_html/Controllers/Maquinaria.php:10
+Stack trace:
+#0 /home/yvhxuunt/public_html/index.php(26): maquinaria->__construct()
+#1 {main}
+  thrown in /home/yvhxuunt/public_html/Controllers/Maquinaria.php on line 10
+[20-Jun-2024 08:00:45 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function verificarPermisos() on null in /home/yvhxuunt/public_html/Controllers/Maquinaria.php:10
+Stack trace:
+#0 /home/yvhxuunt/public_html/index.php(26): maquinaria->__construct()
+#1 {main}
+  thrown in /home/yvhxuunt/public_html/Controllers/Maquinaria.php on line 10
+[20-Jun-2024 08:17:00 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function verificarPermisos() on null in /home/yvhxuunt/public_html/Controllers/Maquinaria.php:10
+Stack trace:
+#0 /home/yvhxuunt/public_html/index.php(26): maquinaria->__construct()
+#1 {main}
+  thrown in /home/yvhxuunt/public_html/Controllers/Maquinaria.php on line 10
+[21-Jun-2024 02:18:50 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND p.permiso = 'limpiezas'' at line 1 in /home/yvhxuunt/public_html/Config/App/Query.php:12
+Stack trace:
+#0 /home/yvhxuunt/public_html/Config/App/Query.php(12): PDOStatement->execute()
+#1 /home/yvhxuunt/public_html/Models/LimpiezasModel.php(54): Query->select('SELECT p.id, p....')
+#2 /home/yvhxuunt/public_html/Controllers/Limpiezas.php(16): LimpiezasModel->verificarPermisos(NULL, 'limpiezas')
+#3 /home/yvhxuunt/public_html/index.php(28): Limpiezas->index('')
+#4 {main}
+  thrown in /home/yvhxuunt/public_html/Config/App/Query.php on line 12
+[21-Jun-2024 06:03:21 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND p.permiso = 'usuarios'' at line 1 in /home/yvhxuunt/public_html/Config/App/Query.php:12
+Stack trace:
+#0 /home/yvhxuunt/public_html/Config/App/Query.php(12): PDOStatement->execute()
+#1 /home/yvhxuunt/public_html/Models/UsuariosModel.php(122): Query->select('SELECT p.id, p....')
+#2 /home/yvhxuunt/public_html/Controllers/Usuarios.php(13): UsuariosModel->verificarPermisos(NULL, 'usuarios')
+#3 /home/yvhxuunt/public_html/index.php(28): Usuarios->index('')
+#4 {main}
+  thrown in /home/yvhxuunt/public_html/Config/App/Query.php on line 12
+[24-Jun-2024 09:44:06 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function verificarPermisos() on null in /home/yvhxuunt/public_html/Controllers/Maquinaria.php:10
+Stack trace:
+#0 /home/yvhxuunt/public_html/index.php(26): maquinaria->__construct()
+#1 {main}
+  thrown in /home/yvhxuunt/public_html/Controllers/Maquinaria.php on line 10
